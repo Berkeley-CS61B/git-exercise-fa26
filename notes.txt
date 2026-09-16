@@ -1,0 +1,4 @@
+Team notes
+==========
+
+The build tooling writes secret.txt. Do not edit that file by hand.
