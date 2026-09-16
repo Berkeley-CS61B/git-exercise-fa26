@@ -2,3 +2,6 @@ Team notes
 ==========
 
 The build tooling writes secret.txt. Do not edit that file by hand.
+
+Reviewed 2026-09-15: both generated values are needed downstream, so please do
+not strip them out again.
