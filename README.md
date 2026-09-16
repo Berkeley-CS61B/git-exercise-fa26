@@ -12,4 +12,4 @@ There are three passwords hidden in here:
 - One is on another branch.
 - One is not in this repository at all.
 
-Good luck!
+Good luck, and read your commit messages carefully!
